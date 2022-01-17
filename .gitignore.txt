@@ -1,0 +1,9 @@
+*
+!/Assets
+!/*.c
+!/*.h
+!/*.ogg
+!/*.jpg
+!/*.png
+!/*.txt
+!/*.ttf
