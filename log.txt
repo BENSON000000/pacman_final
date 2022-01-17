@@ -18,3 +18,4 @@ loaded image: Assets/title.png
 Game start event loop
 Window close button clicked
 Game end
+///Yes
